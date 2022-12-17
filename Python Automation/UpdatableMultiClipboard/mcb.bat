@@ -1,0 +1,1 @@
+@pyw.exe "C:\Users\AdamAlcala\Desktop\githubMELLOWCODE\Jupyter-Notebooks\Python Automation\UpdatableMultiClipboard\mcb.pyw" %*
